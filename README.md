@@ -1,0 +1,3 @@
+-  A sample dataset of customer calls for exploratory data analysis (EDA)?
+-  A description of how to perform EDA on a customer call dataset?
+-  Help writing a summary or report based on EDA of such a dataset?
